@@ -51,7 +51,7 @@ class AppShell extends React.Component{
                         </MenuItem>
                         <MenuItem onClick={this.handleDrawerToggle}>
                             <Link component={RouterLink} to='/texts'>
-                                텍슽트 관리
+                                텍스트 관리
                             </Link>
                         </MenuItem>
                         <MenuItem onClick={this.handleDrawerToggle}>
